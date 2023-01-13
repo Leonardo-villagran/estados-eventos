@@ -1,5 +1,3 @@
-Trabajo número 2 (Estado de los componentes y eventos) de DesafioLatam para el módulo: React I (G27)
-
 "# Estado de los componentes y eventos" 
 
 "Trabajo número 2 (Estado de los componentes y eventos) de DesafioLatam para el módulo: React I (G27):"
